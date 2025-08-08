@@ -29,8 +29,12 @@ This project was a collaborative effort involving **model development**, **inter
 ## 💡 Following are the snapshots of the evaluation metrics
  ![confusion_matrix](https://github.com/user-attachments/assets/6d2476ca-6fd4-4be7-9673-59e247f3a3f4)
 - Confusion Matrix
+
+ 
 ![model_accuracy](https://github.com/user-attachments/assets/c4ab19cb-7fc0-4d67-98d2-35b16ad41431)
 - Model Accuracy
+
+ 
 ![classification_report](https://github.com/user-attachments/assets/161b1809-85c6-41f7-8503-4d077fe1d22b)
 - Classification Report
 
