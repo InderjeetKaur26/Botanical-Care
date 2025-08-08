@@ -1,4 +1,7 @@
-markdown
+![confusion_matrix](https://github.com/user-attachments/assets/6d2476ca-6fd4-4be7-9673-59e247f3a3f4)
+![model_accuracy](https://github.com/user-attachments/assets/c4ab19cb-7fc0-4d67-98d2-35b16ad41431)
+![classification_report](https://github.com/user-attachments/assets/161b1809-85c6-41f7-8503-4d077fe1d22b)
+
 # 🍎 Apple Leaf Disease Classification using CNN
 
 A deep learning-based image classification project to detect and categorize apple leaf diseases using custom CNN architecture. Built with **TensorFlow**, **Keras**, and deployed through **Streamlit**, this project showcases end-to-end ML engineering skills from model design to deployment.
@@ -173,6 +176,7 @@ This project is licensed under the [MIT License](./LICENSE).
 
 * 📧 Email: inder92177@gmail.com
 * 💼 LinkedIn: https://www.linkedin.com/in/inderjeet-kaur-26d11m/
+![confusion_matrix](https://github.com/user-attachments/assets/b6605308-e736-41eb-89da-1377c256a175)
 
 
 ---
