@@ -94,7 +94,7 @@ This project was a collaborative effort involving **model development**, **inter
 ### 1️⃣ Clone the Repository
 
 bash
-git clone https://github.com/SapnaBhola/Apple-CNN-Model.git
+git clone https://github.com/InderjeetKaur26/Botanical-Care
 cd apple-leaf-cnn
 `
 
